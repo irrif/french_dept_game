@@ -13,9 +13,7 @@ This project aims to make learning the **French departments** both **fun and int
 ## 🌍 Key Features
 
 - Interactive map of France displaying all departments
-- Contextual information (name, department number, region, etc.)
-- Quizzes and games to test geography knowledge
-- Responsive interface for desktop, tablet, and mobile devices
+- Game to test geography knowledge
 
 ## 📦 Installation
 
@@ -30,3 +28,17 @@ This project aims to make learning the **French departments** both **fun and int
    ```bash
    git clone https://github.com/your-username/project-name.git
    cd project-name
+
+2. Create virtual environment:
+   ```bash
+   conda env create -n dept_game --file environment.yaml
+
+3. Activate virtual environment:
+   ```bash
+   conda activate dept_game
+
+4. Run the app
+   ```bash
+   python game.py
+
+5. Open your browser and go to `http://127.0.0.1:8050`
