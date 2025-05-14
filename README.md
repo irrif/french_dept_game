@@ -19,8 +19,8 @@ This project aims to make learning the **French departments** both **fun and int
 
 ### Prerequisites
 
-- Python 3.7 or higher
-- `pip` (Python package manager)
+- Python 3.9 or higher
+- `conda` (Anaconda package manager)
 
 ### Steps
 
