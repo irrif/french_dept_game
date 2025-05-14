@@ -1,32 +1,32 @@
-# 🗺️ Apprendre les Départements Français - Projet Ludique et Interactif
+# 🗺️ Learn the French Departments – An Interactive App
 
-## 🎯 Objectif
+## 🎯 Objective
 
-Ce projet a pour ambition de faciliter l'apprentissage des **départements français** de manière **ludique et interactive**. Grâce à une interface intuitive et dynamique, les utilisateurs peuvent explorer la carte de la France, répondre à des quiz, ou simplement découvrir les départements avec leurs caractéristiques clés.
+This project aims to make learning the **French departments** both **fun and interactive**. Through a dynamic and user-friendly interface, users can explore the map of France, take quizzes, and discover key information about each department.
 
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies Used
 
-- **Python** – langage principal du projet
-- **Dash** – framework Python pour créer des applications web interactives
-- **GeoJSON** – pour le rendu géographique des départements sur une carte
+- **Python** – main programming language
+- **Dash** – Python framework for building interactive web applications
+- **GeoJSON** – for rendering geographic data (department shapes on the map)
 
-## 🌍 Fonctionnalités principales
+## 🌍 Key Features
 
-- Affichage interactif d'une carte de France avec ses départements
-- Informations contextuelles sur chaque département (nom, numéro, région, etc.)
-- Quiz et jeux pour tester ses connaissances géographiques
-- Interface responsive utilisable sur ordinateur, tablette ou mobile
+- Interactive map of France displaying all departments
+- Contextual information (name, department number, region, etc.)
+- Quizzes and games to test geography knowledge
+- Responsive interface for desktop, tablet, and mobile devices
 
 ## 📦 Installation
 
-### Prérequis
+### Prerequisites
 
-- Python 3.7 ou plus récent
-- `pip` (gestionnaire de paquets Python)
+- Python 3.7 or higher
+- `pip` (Python package manager)
 
-### Étapes
+### Steps
 
-1. Clonez le dépôt :
+1. Clone the repository:
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-projet.git
-   cd nom-du-projet
+   git clone https://github.com/your-username/project-name.git
+   cd project-name
