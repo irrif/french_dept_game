@@ -1,0 +1,10 @@
+name: dept_game
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - dash=3.0
+  - dash-extensions=1.0
+  - dash-leaflet=1.0
+  - geojson=3.2
