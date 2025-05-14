@@ -42,3 +42,14 @@ This project aims to make learning the **French departments** both **fun and int
    python game.py
 
 5. Open your browser and go to `http://127.0.0.1:8050`
+
+## 🧩 Future Improvements / Roadmap
+
+Here are some planned features and enhancements to make the app even more engaging:
+
+- 🎨 Color selected departments: Visually highlight departments that have already been chosen during gameplay.
+- ❌ Wrong attempt feedback: After up to 3 incorrect guesses per department, highlight the area in red to indicate a failed attempt.
+- 🔄 Add a reset or replay button for new quiz rounds.
+- 🧠 Improve quiz logic with different modes (timed quiz, multiple choice, etc.).
+- 🌐 Add support for English/French language toggle.
+- 📊 Add user performance statistics (score, success rate, etc.).
